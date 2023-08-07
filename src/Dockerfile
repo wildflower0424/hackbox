@@ -1,4 +1,4 @@
-FROM kasmweb/core-ubuntu-bionic:1.10.0
+FROM kasmweb/core-ubuntu-jammy
 USER root
 
 ENV HOME /home/kasm-default-profile
